@@ -5,3 +5,7 @@
 # References
 * [PySpark 기본 예제](https://dslyh01.tistory.com/5)
 * [PySpark 개념 및 주요 기능](https://heytech.tistory.com/304)
+<br/><br/>
+## Spark UDF
+row마다 적용되어 새로운 column을 만들 수 있는 사용자 정의 함수이다. RDBMS의 User Defined Functions와 유사하게 작동하며, scala에서는 udf()로 함수를 wrapping하여 사용할 수 있다.
+<br/>[SparkSQL UDF example](https://mengu.tistory.com/48)
